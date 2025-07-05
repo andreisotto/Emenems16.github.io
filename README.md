@@ -8,7 +8,7 @@
       margin: 0;
       padding: 0;
       height: 100vh;
-      background: url('https://images.unsplash.com/photo-1592194996308-7b43878e84a6') no-repeat center center/cover;
+      background: url('https://images.unsplash.com/photo-1517849845537-4d257902454a') no-repeat center center/cover;
       display: flex;
       justify-content: center;
       align-items: center;
@@ -18,7 +18,7 @@
     }
 
     .message-box {
-      background: rgba(0, 0, 0, 0.6);
+      background: rgba(0, 0, 0, 0.5);
       padding: 30px 50px;
       border-radius: 20px;
       text-align: center;
@@ -38,7 +38,7 @@
 </head>
 <body>
   <div class="message-box">
-    <h1>I love you, beby ko 😽</h1>
+    <h1>I love you, beby ko ❤️</h1>
     <p>I'm forever yours.</p>
   </div>
 </body>
